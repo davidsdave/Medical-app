@@ -1,0 +1,43 @@
+navbar {
+    background-color: #333; 
+  }
+  
+  nav {
+    display: inline-block;
+    background-color: aliceblue;
+    min-width: 100%;
+    padding: 5px;
+    overflow-x: hidden !important;
+
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    float: right;
+  }
+  .link{
+    text-decoration: none;
+  }
+  
+  li {
+    display:inline-block;
+   
+    margin-right: 15px; 
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  Link {
+    text-decoration: none;
+    color: white; 
+
+  }
+  header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+  }
+  

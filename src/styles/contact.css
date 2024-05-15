@@ -1,0 +1,27 @@
+.contact-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .text-container {
+    flex: 1;
+    margin-right: 20px;
+    font-size: larger;
+    color: #333;
+  }
+  
+  .image-container {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end; /* Aligns the image to the right end */
+  }
+  
+  .image-container img {
+    max-width: 1000px; /* Increase the maximum width of the image */
+    height: auto;
+  }
+  
+  
+  

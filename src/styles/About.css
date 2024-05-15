@@ -1,0 +1,15 @@
+Image{
+    float:right;
+margin-top: auto
+}
+.image-container {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end; /* Aligns the image to the right end */
+  }
+  .about-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
